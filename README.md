@@ -12,7 +12,7 @@ Use this example CSV to make a turfbook that you can submit to your VAN vendor i
 
 ### Whatsapp textbank
 _Launched May 2021_  
-Rapid way to make a whatsapp text bank with a 
+Rapid way to make a whatsapp text bank with just two copy-paste steps: a VAN list export and a text script.
 #### Instructions
 Go to the link and 'create a copy' of the page. Paste in a list exported from VAN, add some text with the proper substitute phrases (see example) and launch a whatsapp textbank! Note that in order to systematically test if a number has whatsapp you'll need to pay for Whatsapp business. 
 
